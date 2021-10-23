@@ -16,7 +16,7 @@
 .
 
 
-### **[Information Technology and Computing Path/ `Undergraduate`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**
+### **[Information Technology and Computing Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**
 
 
 ==============================================
@@ -32,8 +32,7 @@
 
 
 > 
-### Medical Laboratory
-
+### **[Medical Laboratory Path ](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)**
 
 =======================
 
