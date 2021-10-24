@@ -53,20 +53,6 @@
 | **😄 My daily Schedule for First Term (( 10/2021 ))**|
  | ------------ | 
 
-| **Saturday**|
- | ------------ | 
-
-
-
-
-
-| **Saturday-** |**--------**| **--------** |**--------** | **--------** |**--------** |**--------** | **--------**|**--------** |
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
-
-
-
-| **😄 Languages and tools**|
- | ------------ | 
 
 | **Saturday** |**Sunday**| **Monday** |[Tableau ](https://public.tableau.com/profile/nancy.al.aswad#!/) | [Power BI](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Power%20BI%20tool.md) |[OpenRefine](https://openrefine.org/) |**[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **HTML**| **CSS**|**JavaScript**| **R** |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
