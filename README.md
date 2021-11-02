@@ -1,4 +1,4 @@
-.
+
 . 
 
 # Each Year Study Schedule
