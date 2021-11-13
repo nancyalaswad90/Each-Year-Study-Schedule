@@ -14,7 +14,7 @@
 > ## First Term (( 10/2021 )) 
 > 
 
-
+. 
 .
 
 | **😄 My daily Schedule for First Term (( 10/2021 ))**|
