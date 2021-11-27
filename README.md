@@ -66,6 +66,12 @@
 
 
 
+.
+
+###  Mid Exams 
+
+
+> ![Lab Exam](https://user-images.githubusercontent.com/36210723/143722053-3651ffc8-1923-4b36-8444-1932a0f54577.png)
 
 ..
 
