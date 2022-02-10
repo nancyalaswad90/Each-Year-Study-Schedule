@@ -21,23 +21,7 @@
 .
 
 
-### **[Information Technology and Computing Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**
 
-
-
-
-
-
-.
-
-
-> 
-### **[Medical Laboratory Path ](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)**
-
-=======================
-
-
-.
 
 
 | **😄 My daily Schedule for Second Term (( 02/2022 ))**|
@@ -52,6 +36,26 @@
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | 
 .
+
+
+
+
+### **[Information Technology and Computing Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**
+
+
+> ![second](https://user-images.githubusercontent.com/36210723/153417144-de0c4249-9854-4f57-8111-60701067027c.png)
+
+
+
+.
+
+
+> 
+### **[Medical Laboratory Path ](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)**
+
+=======================
+
+
 
 .
 
