@@ -110,16 +110,6 @@
 =======================
 
 
-.
-
-![lab](https://user-images.githubusercontent.com/36210723/138566625-b91a90ca-34a9-4835-af69-44d4c0b12105.png)
-
-
-
-
-.
-
-###  Mid Exams 
 
 
 
