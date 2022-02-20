@@ -46,12 +46,14 @@
 > ![second](https://user-images.githubusercontent.com/36210723/153417144-de0c4249-9854-4f57-8111-60701067027c.png)
 
 
+.
+
+![تعويض](https://user-images.githubusercontent.com/36210723/154860328-3b7fb32e-9ee6-436b-9e13-5c98a95ea6e5.png)
 
 
-
-![تعويض](https://user-images.githubusercontent.com/36210723/154860279-23f4c89b-e2ea-40f8-a839-1aa4ea6f8f69.png)
 
 .
+
 
 
 > 
