@@ -53,17 +53,40 @@
 ![تعويض](https://user-images.githubusercontent.com/36210723/154860328-3b7fb32e-9ee6-436b-9e13-5c98a95ea6e5.png)
 
 
-. ## 
-
-[TM298 : Operating Systems ] 
+> ## [TM298 : Operating Systems ] 
 
 
 - Quiz 1 :   9/3/2022   -  Session: 9:30 PM -10:00 PM
+
+.
+
 
 
 ![Q1](https://user-images.githubusercontent.com/36210723/154860484-6f158701-207e-40fe-86a2-a85e4bccf3b2.png)
 
 .
+
+
+
+
+
+> ## [TM260 : Security Ethics and Privacy in IT and Computing ] 
+
+
+- Quiz 1 :   9/3/2022   -  Session: 9:00 PM -9:30 PM
+
+.
+
+![Q11](https://user-images.githubusercontent.com/36210723/154860608-857dee32-1c28-4c18-bf08-e48642152769.png)
+
+
+
+.
+
+
+
+
+
 
 
 
