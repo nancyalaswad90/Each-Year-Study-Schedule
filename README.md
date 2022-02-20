@@ -61,6 +61,7 @@
 - Quiz 1 :   9/3/2022   -  Session: 9:30 PM -10:00 PM
 
 
+![Q1](https://user-images.githubusercontent.com/36210723/154860484-6f158701-207e-40fe-86a2-a85e4bccf3b2.png)
 
 .
 
