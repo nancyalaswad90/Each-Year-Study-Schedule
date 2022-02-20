@@ -40,6 +40,8 @@
 
 
 
+
+
 ### **[Information Technology and Computing Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**
 
 
@@ -49,6 +51,14 @@
 .
 
 ![تعويض](https://user-images.githubusercontent.com/36210723/154860328-3b7fb32e-9ee6-436b-9e13-5c98a95ea6e5.png)
+
+
+. ## 
+
+[TM298 : Operating Systems ] 
+
+
+- Quiz 1 :   9/3/2022   -  Session: 9:30 PM -10:00 PM
 
 
 
