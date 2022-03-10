@@ -42,43 +42,13 @@
 
 
 
-### **[Information Technology and Computing Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**
-
-
-> ![second](https://user-images.githubusercontent.com/36210723/153417144-de0c4249-9854-4f57-8111-60701067027c.png)
+> ### **[Information Technology and Computing Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**
 
 
 .
 
-![تعويض](https://user-images.githubusercontent.com/36210723/154860328-3b7fb32e-9ee6-436b-9e13-5c98a95ea6e5.png)
 
-
-> ## [TM298 : Operating Systems ] 
-
-
-- Quiz 1 :   9/3/2022   -  Session: 9:30 PM -10:00 PM
-
-.
-
-
-
-![Q1](https://user-images.githubusercontent.com/36210723/154860484-6f158701-207e-40fe-86a2-a85e4bccf3b2.png)
-
-.
-
-
-
-
-
-> ## [TM260 : Security Ethics and Privacy in IT and Computing ] 
-
-
-- Quiz 1 :   9/3/2022   -  Session: 9:00 PM -9:30 PM
-
-.
-
-![Q11](https://user-images.githubusercontent.com/36210723/154860608-857dee32-1c28-4c18-bf08-e48642152769.png)
-
+![second](https://user-images.githubusercontent.com/36210723/153417144-de0c4249-9854-4f57-8111-60701067027c.png)
 
 
 .
@@ -86,15 +56,14 @@
 
 
 
-
-
-
-
-> 
-### **[Medical Laboratory Path ](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)**
+> ### **[Medical Laboratory Path ](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)**
 
 =======================
 
+
+
+.
+![لمختبرات ا](https://user-images.githubusercontent.com/36210723/157773390-a08653d0-fd5c-4d2d-90c0-0035b27fdc5c.png)
 
 
 .
