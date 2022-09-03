@@ -3,14 +3,9 @@
 
 # [Each Year Study Schedule]()
 
+# ================================
 
-
-
-
-
-
-
-> ##  First Term  ((  **Template** 00/2022 )) 
+> ##  First Term  ((  **2023:/2022 **)) 
 
 .
 
@@ -23,7 +18,7 @@
 .
 
 
-| **😄 My daily Schedule for **Template** Term (( **Template**))**|
+| **😄 My daily Schedule for First Term  ((  **2023:/2022 **)) |
  | ------------ | 
 
 
