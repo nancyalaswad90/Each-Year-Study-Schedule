@@ -34,7 +34,32 @@
 .
 
 
-![image](https://user-images.githubusercontent.com/36210723/188271421-b2701adc-b434-413a-850d-1dd1075f500a.png)
+![Phd](https://user-images.githubusercontent.com/36210723/195269904-5e007d23-0918-45ad-9653-d60778732cb0.png)
+
+.
+
+=============================================================
+
+
+
+.
+
+
+![IT ](https://user-images.githubusercontent.com/36210723/195269908-d4d26e24-315e-4e71-8f7d-2de62b36fad4.png)
+
+
+
+.
+
+=============================================================
+
+
+
+.
+
+
+
+![2022-10-12_طبية](https://user-images.githubusercontent.com/36210723/195269910-d0f59823-9bea-45c7-a0bc-2e9e8bf73648.png)
 
 
 
