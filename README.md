@@ -19,7 +19,7 @@
 .
 
 
-| **😄 My daily Schedule for First Term  ((  **2023:/2022 **)) |
+| **😄 My daily Schedule for First Term  ((  `2023:/2022 `))** |
  | ------------ | 
 
 
