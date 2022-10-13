@@ -12,6 +12,9 @@
 
 **My studying fields : Bachelor of [Information Technology and Computing Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)    &&&&    Diploma of [Medical Laboratory Path ](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)**
 
+
+[Ph.D.  `Accounting`](http://grades.wise.edu.jo:8889/index.php) in  the **World Islamic Sciences and Education University** to continue **the finance path** and study [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)  at **Arab Open University** as **[the second](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) Bachelor study path** and  [`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)   diploma **college** as **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) study path.**
+
 =======================
 
 
