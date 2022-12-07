@@ -1,6 +1,36 @@
 
 . 
 
+>  Exams 
+>  
+- **2 / 1  = 298**
+- **5 / 1 = 260**
+- **10/1  = 354**
+
+
+
+![354](https://user-images.githubusercontent.com/36210723/206171471-a91e6eda-4f5f-4c1a-96dc-4eedf8bf7b3e.png)
+
+.
+
+
+.
+
+![298](https://user-images.githubusercontent.com/36210723/206171473-fa3be23b-972e-4615-a751-02e7e4d480b0.png)
+
+.
+
+
+.
+
+
+![260](https://user-images.githubusercontent.com/36210723/206171474-5e921136-9c5d-4714-b81b-424f0d0f8a9f.png)
+
+
+
+.
+
+
 # [Each Year Study Schedule]()
 
 # ================================
