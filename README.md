@@ -32,8 +32,14 @@
 ![مهارات لغوية](https://user-images.githubusercontent.com/36210723/211001660-ed70fe08-8ceb-4ea3-b01b-6e3b32a48d92.png)
 
 
+.
+
+
+
 >  - m المناعة   22/1 -
-![المناعه](https://user-images.githubusercontent.com/36210723/211001183-bdd9022c-3469-429c-bafb-4107833599e3.png)
+.
+
+
 
 
 ![المناعه](https://user-images.githubusercontent.com/36210723/211002164-cc1a753b-719c-469a-a913-c6115a6fc8fe.png)
