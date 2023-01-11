@@ -4,12 +4,6 @@
 >  Exams 
 >  
 
-- **10/1  = 354**
-
-
-![354](https://user-images.githubusercontent.com/36210723/206171471-a91e6eda-4f5f-4c1a-96dc-4eedf8bf7b3e.png)
-
-.
 
 | **😄 My daily Schedule for **Template** Term (( **Template**))**|
  | ------------ | 
@@ -81,6 +75,24 @@
 
 
 .
+
+
+# [Each Year Study Schedule]()
+
+# ================================
+
+> ##  Second Term  ((  **2023:/2022**)) 
+
+.
+
+
+![it](https://user-images.githubusercontent.com/36210723/211774237-74862972-eb61-4eb3-b382-ff9770e160c3.png)
+
+
+.
+
+
+
 
 
 # [Each Year Study Schedule]()
