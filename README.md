@@ -23,14 +23,7 @@
 
 
 
-
->  - m  الامراض  25/1 
-
 .
-
-
-![الامراض  25-1](https://user-images.githubusercontent.com/36210723/211003430-e9698b29-80e9-4143-b57a-cc77c98ddb51.png)
-
 .
 
 
