@@ -1,27 +1,7 @@
 
 . 
 
->  Exams 
->  
 
-
-
-.
-
-![الكيمياء الطبية](https://user-images.githubusercontent.com/36210723/211003935-71b8e11b-fbaa-4962-96f4-541d88b536f5.png)
-
-.
-
-
->  - m احياء + سريرية  30 /1 -
-
-.
-
-
-![احياء + سريرية](https://user-images.githubusercontent.com/36210723/211005531-2484a715-7d6c-40e4-876c-fb64b50f3e40.png)
-
-
-.
 
 
 # [Each Year Study Schedule]()
