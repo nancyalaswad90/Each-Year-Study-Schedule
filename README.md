@@ -18,22 +18,53 @@
 
 .
 
-
-![phd](https://user-images.githubusercontent.com/36210723/213668446-0d77cb77-7b42-4dbc-9993-01da4d110fcf.png)
+![Mid 355](https://user-images.githubusercontent.com/36210723/221433581-0792d721-b2b8-436a-b55d-47c6a3ccb80c.png)
+![Mid109](https://user-images.githubusercontent.com/36210723/221433583-32393003-5eac-453b-a8bd-d1f2e3cfce54.png)
 
 
 .
 
+![final](https://user-images.githubusercontent.com/36210723/221433573-39341a9c-33e8-4f81-91b1-89e8be1348c7.png)
 
+.
 
 # [Each Year Study Schedule]()
 
 # ================================
 
-> ##  First Term  ((  **2023:/2022**)) 
+.
+
+
+| **😄 My daily Schedule for **Template** Term (( **Template**))**|
+ | ------------ | 
+
+
+| **[Saturday]()** |**[Sunday]()**| **[Monday]()** |**[Tuesday ]()** | **[Wednesday]()** |**[Thursday]()** |**[Friday]()**  | 
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | 
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | 
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | 
+.
 
 .
 
+
+======================================
+
+
+.
+
+
+
+> ##  First Term  ((  **2023:/2022**)) [Study Schedule]()
+
+.
+
+# ================================
+
+.
 
 **My studying fields :**  [Ph.D.  `Accounting`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf)   in  the **World [Islamic Sciences](http://grades.wise.edu.jo:8889/index.php) and Education University** to continue **the finance path** and study [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)  at **[Arab Open University](https://mdl.arabou.edu.kw/jordan/)** as **[the second](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) Bachelor study path** and  [`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)   diploma **[college](http://portal.auct.edu.jo/auct-web/pages/students/login.xhtml)** as **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) study path.**
 
