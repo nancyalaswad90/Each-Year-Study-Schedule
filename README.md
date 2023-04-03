@@ -37,7 +37,9 @@
 .
 
 ![Mid 355](https://user-images.githubusercontent.com/36210723/221433581-0792d721-b2b8-436a-b55d-47c6a3ccb80c.png)
-![Mid109](https://user-images.githubusercontent.com/36210723/221433583-32393003-5eac-453b-a8bd-d1f2e3cfce54.png)
+
+
+
 
 
 .
