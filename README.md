@@ -36,13 +36,7 @@
 
 .
 
-![Mid 355](https://user-images.githubusercontent.com/36210723/221433581-0792d721-b2b8-436a-b55d-47c6a3ccb80c.png)
 
-
-
-
-
-.
 
 ![final](https://user-images.githubusercontent.com/36210723/221433573-39341a9c-33e8-4f81-91b1-89e8be1348c7.png)
 
