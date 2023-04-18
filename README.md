@@ -38,6 +38,12 @@
 
 
 
+![Phd mid exam](https://user-images.githubusercontent.com/36210723/232911117-95055e16-3e3e-4784-85ed-0f5a8079edeb.png)
+
+
+
+.
+
 ![final](https://user-images.githubusercontent.com/36210723/221433573-39341a9c-33e8-4f81-91b1-89e8be1348c7.png)
 
 .
