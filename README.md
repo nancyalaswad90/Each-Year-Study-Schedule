@@ -38,10 +38,6 @@
 > ![00000](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/1bd2a27d-f9c8-4ee5-acea-7cdb7aa0511c)
 
 
-.
-
-![Phd mid exam](https://user-images.githubusercontent.com/36210723/232911117-95055e16-3e3e-4784-85ed-0f5a8079edeb.png)
-
 
 
 .
