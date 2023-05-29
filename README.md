@@ -1,21 +1,24 @@
-
-. 
-> [anatomy and microbiology](https://youtu.be/Kc3WEiDjxBE)
-
-
-
+.
 # [Each Year Study Schedule]()
 
 
 
 
 
-> # [ Summer  Term  ((  **2023**))  Study Schedule]()
+> # [ Summer  Term Planning ((  **2023**))  Study Schedule]()
 
 # ================================
 
 .
 
+- Incomplete exams 
+
+
+-  [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+
+-  [anatomy and microbiology](https://youtu.be/Kc3WEiDjxBE)
+-  
 .
 
 
