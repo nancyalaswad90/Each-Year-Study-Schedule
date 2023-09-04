@@ -40,20 +40,10 @@
 | - 13:00 pm- 16:00 - `Ph.D.` المحاسبة المالية | ------------ | ------------ |------------ | ------------ | 
 | ------------ | TM‎471‎ `IT`  مشروع التخرج   14:00‏ الى ‎15:00  | ------------ |------------ | TM‎109 `IT`  البرمجة باستخدام ‎Net‏.   ‎10:00‏ الى ‎11:00 | 
 | ------------ | ------------ | ------------ |------------ | ------------ |
-.
-
-<img width="681" alt="I" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/cdaa2508-b8a2-42e0-ba8d-a365c6bfdfc9">
 
 .
 
 
-
-> ![00000](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/1bd2a27d-f9c8-4ee5-acea-7cdb7aa0511c)
-
-
-
-
-.
 
 ![final it](https://user-images.githubusercontent.com/36210723/211774237-74862972-eb61-4eb3-b382-ff9770e160c3.png)
 
