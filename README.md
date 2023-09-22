@@ -27,7 +27,7 @@
 .
 
 
-I have successfully completed my various academic disciplines in the fields of  (( finance, medicine, and technology ))  at different universities for this term
+### I have successfully completed my various academic disciplines in the fields of  (( finance, medicine, and technology ))  at different universities for this term
 
 
 -  I have completed my first year as a doctoral student in accounting with an 80 % grade.
@@ -40,6 +40,9 @@ I have successfully completed my various academic disciplines in the fields of  
 
 
 I have attached my certificates and relevant links to my profile on GitHub: https://github.com/nancyalaswad90.
+
+
+
 .
 
 
