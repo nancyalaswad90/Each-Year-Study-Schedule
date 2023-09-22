@@ -20,20 +20,26 @@
 
 .
 
-> # [Terms  Result  for  ((  **2023**))  Study Schedule]()
+> # [Terms  Result  for  ((  **2023**))  Study Schedule]()  
 
 # ================================
 
 .
 
-- Incomplete exams 
+
+I have successfully completed my various academic disciplines in the fields of  (( finance, medicine, and technology ))  at different universities for this term
 
 
--  [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+-  I have completed my first year as a doctoral student in accounting with an 80 % grade.
 
 
--  [anatomy and microbiology](https://youtu.be/Kc3WEiDjxBE)
--  
+- I have also obtained my second bachelor's degree in Information Technology and computer science with a GPA of 3.23 (87%).
+
+
+- Furthermore, I have completed a diploma program in Medical Laboratories with a 71.8% grade.
+
+
+I have attached my certificates and relevant links to my profile on GitHub: https://github.com/nancyalaswad90.
 .
 
 
