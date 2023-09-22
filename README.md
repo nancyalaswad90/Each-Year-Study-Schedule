@@ -30,13 +30,13 @@
 ### I have successfully completed my various academic disciplines in the fields of  (( finance, medicine, and technology ))  at different universities for this term
 
 
--  I have completed my first year as a doctoral student in accounting with an 80 % grade.
+-  I have completed my `first year` as a doctoral student in accounting with an `80 % grade`.
 
 
-- I have also obtained my second bachelor's degree in Information Technology and computer science with a GPA of 3.23 (87%).
+- I have also obtained my second bachelor's degree in Information Technology and computer science with a `GPA of 3.23 (87%)`.
 
 
-- Furthermore, I have completed a diploma program in Medical Laboratories with a 71.8% grade.
+- Furthermore, I have completed a diploma program in Medical Laboratories with a `71.8% grade`.
 
 
 I have attached my certificates and relevant links to my profile on GitHub: https://github.com/nancyalaswad90.
