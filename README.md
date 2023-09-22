@@ -43,10 +43,16 @@ I have attached my certificates and relevant links to my profile on GitHub: http
 
 
 
+
 .
 
 
+
+
+
 > # [ Second Term  ((  **2023:/2022**))  Study Schedule]()
+
+
 
 # ================================
 
