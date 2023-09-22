@@ -2,10 +2,25 @@
 # [Each Year Study Schedule]()
 
 
+.
+
+> # [ New Term Planning ((  **2023**))  Study Schedule]()
+
+# ================================
 
 .
 
-> # [ Summer  Term Planning ((  **2023**))  Study Schedule]()
+-  [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+
+-  [anatomy and microbiology](https://youtu.be/Kc3WEiDjxBE)
+
+
+
+
+.
+
+> # [Terms  Result  for  ((  **2023**))  Study Schedule]()
 
 # ================================
 
