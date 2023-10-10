@@ -20,7 +20,39 @@
 -  [anatomy and microbiology](https://youtu.be/Kc3WEiDjxBE)
 
 
+.
 
+
+
+
+
+
+.
+
+
+
+
+
+> ## First Term (( 10/2023 )) 
+
+
+
+=========================================
+
+
+ # [Medical Laboratory](http://portal.auct.edu.jo/auct-web/pages/students/dashboard.xhtml) third [path site ](https://elearning.auct.edu.jo/moodle/my/)
+
+
+
+
+.
+
+<img width="1006" alt="collage" src="https://github.com/nancyalaswad90/Medical-Laboratory/assets/36210723/4ac9f4b6-a7e2-4609-b1d3-13415e7f63a6">
+
+
+.
+
+==================================================================================================================================================
 
 .
 
