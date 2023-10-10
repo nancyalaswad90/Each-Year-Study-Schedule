@@ -95,6 +95,20 @@
 <img width="1006" alt="collage" src="https://github.com/nancyalaswad90/Medical-Laboratory/assets/36210723/4ac9f4b6-a7e2-4609-b1d3-13415e7f63a6">
 
 
+
+.
+
+=======================================================================================================
+
+
+
+.
+
+
+<img width="1006" alt="phd" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/26e38504-c0cc-4046-bea0-70eb028eb52e">
+
+
+
 .
 
 =======================================================================================================
