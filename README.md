@@ -4,8 +4,6 @@
 
 # [Each Year Study Schedule]()
 
-
-
 .
 
 > # [ New Term Planning ((  **2023**))  Study Schedule]()
