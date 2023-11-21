@@ -60,6 +60,23 @@
 
 .
 
+> ## Mid Exams for all Paths  
+
+
+..
+
+
+| **😄 My daily Schedule for **Template** Term (( **Template**))**|
+ | ------------ | 
+
+
+| **[Saturday]()** |**[Sunday]()**| **[Monday]()** | **[Wednesday]()** |
+| ------------ | ------------ | ------------ |------------ |
+
+
+
+.
+
 
  # [Medical Laboratory](http://portal.auct.edu.jo/auct-web/pages/students/dashboard.xhtml) third [path site ](https://elearning.auct.edu.jo/moodle/my/)
 
