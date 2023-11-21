@@ -124,7 +124,16 @@
 
 **[Saturday]()**  :  Date :  (16 -12 )  -  معايير التدقيق الدولية    pm 1:30 - 4:30 - `Ph.D.`  
 
+.
 
+
+<img width="360" alt="مشتركة" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/2a3918cc-0890-4d9f-bd8d-ddc2e87cca27">
+
+
+<img width="308" alt="الكيمياء التحليلية 7- 12" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/7ca32e2b-e407-4de4-a4ee-19b622c5888e">
+
+
+<img width="349" alt="الاحياء الدقيقة 10-12" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/6caaa5a9-00b7-4ed7-bed9-1b5538b54217">
 
 
 .
