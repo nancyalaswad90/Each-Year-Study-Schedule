@@ -1,7 +1,6 @@
 .
 
 
-
 # [Each Year Study Schedule]()
 
 .
