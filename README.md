@@ -88,6 +88,16 @@
 .
 
 
+> ## Final  Exams for all Paths  
+
+
+==========================
+
+
+
+.
+
+<img width="819" alt="Capture" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/578b8f2b-9234-4e94-9ccf-8b427bdd54fd">
 
 
 
