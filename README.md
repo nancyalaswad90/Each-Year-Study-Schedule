@@ -80,6 +80,37 @@
 | ------------ | ------------ | لمواطنة الايجابية ومهارات الحياة (ON LINE )  03:30-05:00  `Med`  |
 .
 
+.
+
+
+<img width="1006" alt="phd" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/26e38504-c0cc-4046-bea0-70eb028eb52e">
+
+
+
+.
+
+
+     ======================================================================
+
+
+.
+
+
+<img width="1011" alt="PHD Final" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/12a68e06-dc16-4006-8d3c-d11046f50a38">
+
+
+
+.
+
+
+
+
+
+
+=======================================================================================
+
+
+
 
 
 
@@ -101,33 +132,6 @@
 
 .
 
-
-
-=======================================================================================
-
-
-
-.
-
-
-<img width="1006" alt="phd" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/26e38504-c0cc-4046-bea0-70eb028eb52e">
-
-
-
-.
-
-
-     =======================================================
-
-
-.
-
-
-<img width="1011" alt="PHD Final" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/12a68e06-dc16-4006-8d3c-d11046f50a38">
-
-
-
-.
 
 > ## Final  Exams for all Paths  from 04 -12  \ ` 02 ` \ 2024
 
