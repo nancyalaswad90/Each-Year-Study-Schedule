@@ -90,7 +90,11 @@
 
 .
 
+<img width="1011" alt="PHD Final" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/12a68e06-dc16-4006-8d3c-d11046f50a38">
 
+
+
+.
 
 > ## Final  Exams for all Paths  from 04 -12  \ ` 02 ` \ 2024
 
