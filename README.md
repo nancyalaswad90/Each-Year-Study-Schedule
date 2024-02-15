@@ -31,7 +31,7 @@
 .
 
 
-| **😄 My daily Schedule **|
+| 😄 **My daily Schedule**|
  | ------------ | 
 
 
