@@ -86,6 +86,12 @@
 .
 
 
+<img width="745" alt="2024-02-16_01-01-54" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/66589eb5-42bc-4d7c-bc20-030023e40e68">
+
+.
+
+
+
 > ## Final  Exams for all Paths  from 04 -12  \ ` 02 ` \ 2024
 
 
