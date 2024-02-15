@@ -5,13 +5,6 @@
 
 .
 
-> # [ New Term Planning ((  **2023**))  Study Schedule]()
-
-
-# ================================
-
-.
-
 -  [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 
