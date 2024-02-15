@@ -1,6 +1,4 @@
-<img width="1011" alt="Medical" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/74b3f824-a2b4-4987-8142-d020b96daa83">
 .
-
 
 # [Each Year Study Schedule]()
 
