@@ -86,9 +86,11 @@
 .
 
 
-<img width="745" alt="2024-02-16_01-01-54" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/66589eb5-42bc-4d7c-bc20-030023e40e68">
+     ====================================== 
+
 
 .
+
 
 <img width="1011" alt="PHD Final" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/12a68e06-dc16-4006-8d3c-d11046f50a38">
 
