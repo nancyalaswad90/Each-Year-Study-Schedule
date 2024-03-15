@@ -1,8 +1,9 @@
-<img width="527" alt="Capture" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/4e578307-6e37-46ff-ba72-667962e52b2d">
+
 .
 
 # [Each Year Study Schedule]()
-<img width="527" alt="Capture" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/8ebe3e41-7c6a-4a95-a885-c4e26a9519b2">
+
+
 
 
 .
@@ -45,6 +46,7 @@
 
 .
 
+![med](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/f6eb54cb-2887-4f09-a53a-21930c6da806)
 
 
 ![image](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/dc1b2034-d2e7-47a6-8fc7-f8c65d7ab3de)
