@@ -46,10 +46,12 @@
 
 .
 
+
+
 ![med](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/f6eb54cb-2887-4f09-a53a-21930c6da806)
 
 
-![image](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/dc1b2034-d2e7-47a6-8fc7-f8c65d7ab3de)
+
 
 .
 
