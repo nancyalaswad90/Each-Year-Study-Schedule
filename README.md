@@ -2,6 +2,7 @@
 .
 
 # [Each Year Study Schedule]()
+<img width="527" alt="Capture" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/8ebe3e41-7c6a-4a95-a885-c4e26a9519b2">
 
 
 .
