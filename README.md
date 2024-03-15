@@ -1,3 +1,4 @@
+<img width="527" alt="Capture" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/4e578307-6e37-46ff-ba72-667962e52b2d">
 .
 
 # [Each Year Study Schedule]()
@@ -92,6 +93,7 @@
 .
 
 .
+<img width="527" alt="Capture" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/9a83b749-edf9-4f03-bc08-46eb3df6fbb4">
 
 
 <img width="1006" alt="phd" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/26e38504-c0cc-4046-bea0-70eb028eb52e">
