@@ -46,8 +46,6 @@
 ![med](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/f6eb54cb-2887-4f09-a53a-21930c6da806)
 
 
-
-
 .
 
 
